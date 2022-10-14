@@ -1,1 +1,2 @@
-# Ass3
+S - Single Responsibility Principle => the project violate the SOLID principles Because invoice class do 3 behaviors They are different and have nothing to do with each other and the principle say that a class should only have one responsibility ,and the invoice do add ,delete .sendemail so we should do each function in sparet class
+![image](https://user-images.githubusercontent.com/100956629/195835042-9f1ed9ba-1851-4d2f-a79a-87603b887aa7.png)
