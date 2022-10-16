@@ -8,5 +8,7 @@ L - Liskov’s Substitution Principle=>
 
 
 I - Interface Segregation Principle=>the project violate the SOLID principles Because bird intrface have 3 fun and when we implement to eagle then we should override swim fun and eagle dont need it and the principle say larger interfaces by breaking application interfaces into smaller ones.
+
 ![image](https://user-images.githubusercontent.com/100956629/196032913-bf5f59b1-8926-452b-82cf-e53628250d68.png)
+
 D - Dependency Inversion Principle=>
