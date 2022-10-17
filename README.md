@@ -11,4 +11,7 @@ I - Interface Segregation Principle=>the project violate the SOLID principles Be
 
 ![image](https://user-images.githubusercontent.com/100956629/196032913-bf5f59b1-8926-452b-82cf-e53628250d68.png)
 
-D - Dependency Inversion Principle=>
+D - Dependency Inversion Principle=>the project violate the SOLID principles Because WindowsMachine depend on low-level modules(Keyboard,Monitor) and the principle say high-level modules should depend on abstractions ,so i make interface product and implement low-level this interface to prevent WindowsMachine depend on low-level ,but depend on abstraction(product) and in the main set which product type i want 
+
+![image](https://user-images.githubusercontent.com/100956629/196162205-30a5f94e-0d78-498f-9d6a-824af61fdd1e.png)
+
